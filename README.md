@@ -36,7 +36,7 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+One challenge was understanding destructuring and the spread operator. I read the resources provided and asked chatGPT to explain more in order to get a better understanding. 
 
 ## License
 
