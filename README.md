@@ -18,7 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-The filtering button were styled to be a skyblue. There is also a shadow when you hover over it. 
+
+* The filtering buttons were styled to be a skyblue. There is also a shadow when you hover over it. 
 
 ## Video Walkthrough
 
