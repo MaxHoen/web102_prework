@@ -1,6 +1,6 @@
 # WEB102 Prework - *Web102 Prework*
 
-Submitted by: **Mohammed Khader*
+Submitted by: **Mohammed Khader**
 
 **SeaMonster* is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -24,10 +24,10 @@ The filtering button were styled to be a skyblue. There is also a shadow when yo
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/MaxHoen/web102_prework/blob/main/prework_walkthrough.gif' title='Prework Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
